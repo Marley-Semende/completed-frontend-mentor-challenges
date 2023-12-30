@@ -1,3 +1,6 @@
 [submodule "stats-preview-card-compnent"]
 	path = stats-preview-card-compnent
 	url = https://github.com/Marley-Semende/stats-preview-card-component
+[submodule "product-preview-card-component"]
+	path = product-preview-card-component
+	url = https://github.com/Marley-Semende/product-preview-card-component
