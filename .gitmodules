@@ -13,3 +13,6 @@
 [submodule "testimonial-grid-section"]
 	path = testimonial-grid-section
 	url = https://github.com/Marley-Semende/testimonial-grid-section
+[submodule "profile-card-component"]
+	path = profile-card-component
+	url = https://github.com/Marley-Semende/profile-card-component
