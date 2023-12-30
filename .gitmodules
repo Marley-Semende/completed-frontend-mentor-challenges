@@ -10,3 +10,6 @@
 [submodule "NFT-Preview-Card"]
 	path = NFT-Preview-Card
 	url = https://github.com/Marley-Semende/NFT-Preview-Card
+[submodule "testimonial-grid-section"]
+	path = testimonial-grid-section
+	url = https://github.com/Marley-Semende/testimonial-grid-section
