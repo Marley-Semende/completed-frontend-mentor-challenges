@@ -7,3 +7,6 @@
 [submodule "social-proof-section"]
 	path = social-proof-section
 	url = https://github.com/Marley-Semende/social-proof-section
+[submodule "NFT-Preview-Card"]
+	path = NFT-Preview-Card
+	url = https://github.com/Marley-Semende/NFT-Preview-Card
